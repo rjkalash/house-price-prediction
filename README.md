@@ -1,2 +1,2 @@
 # house price prediction
- This is 
+ This is my ML regression project.
